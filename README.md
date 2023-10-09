@@ -37,13 +37,13 @@ As inputs, a user is allowed to enter different elements of the circuit in a one
 
 ## Outputs
 1. A dataframe containing nodes voltages (in volts), sorted ascendingly
-for instance:
+>
 𝑁𝑜𝑑𝑒 𝑉𝑜𝑙𝑡𝑎𝑔𝑒
 1    100∠50
 2    0
 3    32∠ − 13
 3. A dataframe containing currents (in amps), active, reactive and apparent power between each node in the circuit
-for instance:
+>
 𝐹𝑟𝑜𝑚     𝑇𝑜     𝐼        𝑃     𝑄     𝑆
 1        2      1∠10    1000   10    1000.05∠0.57
 1        3      0.5∠−3  −516   0.0   516∠180
