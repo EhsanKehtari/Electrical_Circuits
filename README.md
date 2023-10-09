@@ -12,7 +12,7 @@ As inputs, a user is allowed to enter different elements of the circuit in a one
 
 ## Sample Inputs
 "1 2 R 1.53"
-> A resistor of 1.53 ohms between nodes 1 and 2
+>>> A resistor of 1.53 ohms between nodes 1 and 2
 "12 25 L 0.003"
 > An inductor of 0.003 henries between nodse 12 and 25
 "3 4 C 1.006"
